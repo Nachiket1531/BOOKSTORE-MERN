@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Book",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1721315794~exp=1721319394~hmac=d4e5cdbabf4b3538f1b23a9b997cc455e14218bef00f00a4907c50519f377467&w=740"
+  },
+  {
+    "id": 2,
+    "name": "Adventure Time",
+    "title": "Novel",
+    "price": 10.99,
+    "category": "Fiction",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1721315794~exp=1721319394~hmac=d4e5cdbabf4b3538f1b23a9b997cc455e14218bef00f00a4907c50519f377467&w=740"
+  },
+  {
+    "id": 3,
+    "name": "The Alchemist",
+    "title": "Philosophy",
+    "price": 15.99,
+    "category": "Non-Fiction",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1721315794~exp=1721319394~hmac=d4e5cdbabf4b3538f1b23a9b997cc455e14218bef00f00a4907c50519f377467&w=740"
+  },
+  {
+    "id": 4,
+    "name": "Harry Potter",
+    "title": "Fantasy",
+    "price": 12.99,
+    "category": "Fiction",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1721315794~exp=1721319394~hmac=d4e5cdbabf4b3538f1b23a9b997cc455e14218bef00f00a4907c50519f377467&w=740"
+  },
+  {
+    "id": 5,
+    "name": "To Kill a Mockingbird",
+    "title": "Classic",
+    "price": 8.99,
+    "category": "Fiction",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1721315794~exp=1721319394~hmac=d4e5cdbabf4b3538f1b23a9b997cc455e14218bef00f00a4907c50519f377467&w=740"
+  },
+  {
+    "id": 6,
+    "name": "The Hunger Games",
+    "title": "Dystopian",
+    "price": 11.99,
+    "category": "Fiction",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1721315794~exp=1721319394~hmac=d4e5cdbabf4b3538f1b23a9b997cc455e14218bef00f00a4907c50519f377467&w=740"
+  },
+  {
+    "id": 7,
+    "name": "Pride and Prejudice",
+    "title": "Romance",
+    "price": 9.99,
+    "category": "Classic",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1721315794~exp=1721319394~hmac=d4e5cdbabf4b3538f1b23a9b997cc455e14218bef00f00a4907c50519f377467&w=740"
+  }
+]
